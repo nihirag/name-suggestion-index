@@ -2838,6 +2838,7 @@
   },
   "amenity/fuel|Tesoro": {
     "countryCodes": ["us"],
+    "nomatch": ["amenity/bank|Tesoro"],
     "tags": {
       "amenity": "fuel",
       "brand": "Tesoro",

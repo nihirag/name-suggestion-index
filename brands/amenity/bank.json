@@ -5934,6 +5934,7 @@
     }
   },
   "amenity/bank|Tesoro": {
+    "nomatch": ["amenity/fuel|Tesoro"],
     "tags": {
       "amenity": "bank",
       "brand": "Tesoro",

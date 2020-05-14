@@ -65,10 +65,7 @@
   },
   "shop/convenience|8 à Huit": {
     "countryCodes": ["fr"],
-    "nomatch": [
-      "amenity/fuel|8 à Huit",
-      "shop/supermarket|8 à Huit"
-    ],
+    "nomatch": ["amenity/fuel|8 à Huit", "shop/supermarket|8 à Huit"],
     "tags": {
       "brand": "8 à Huit",
       "brand:wikidata": "Q2818601",
@@ -190,13 +187,7 @@
     }
   },
   "shop/convenience|BP Shop": {
-    "countryCodes": [
-      "au",
-      "ch",
-      "fr",
-      "gb",
-      "us"
-    ],
+    "countryCodes": ["au", "ch", "fr", "gb", "us"],
     "nomatch": ["amenity/fuel|BP"],
     "tags": {
       "brand": "BP Shop",
@@ -287,10 +278,7 @@
   },
   "shop/convenience|Carrefour Express": {
     "matchTags": ["shop/supermarket"],
-    "nomatch": [
-      "amenity/fuel|Carrefour",
-      "shop/supermarket|Carrefour"
-    ],
+    "nomatch": ["amenity/fuel|Carrefour", "shop/supermarket|Carrefour"],
     "tags": {
       "brand": "Carrefour Express",
       "brand:wikidata": "Q2940190",
@@ -300,9 +288,7 @@
     }
   },
   "shop/convenience|Casey's General Store": {
-    "nomatch": [
-      "amenity/fuel|Casey's General Store"
-    ],
+    "nomatch": ["amenity/fuel|Casey's General Store"],
     "tags": {
       "brand": "Casey's General Store",
       "brand:wikidata": "Q2940968",
@@ -584,9 +570,7 @@
   },
   "shop/convenience|Delikatesy Centrum": {
     "countryCodes": ["pl"],
-    "nomatch": [
-      "shop/supermarket|Delikatesy Centrum"
-    ],
+    "nomatch": ["shop/supermarket|Delikatesy Centrum"],
     "tags": {
       "brand": "Delikatesy Centrum",
       "brand:wikidata": "Q11693824",
@@ -643,16 +627,7 @@
       "shop": "convenience"
     }
   },
-  "shop/convenience|Four Square": {
-    "countryCodes": ["nz"],
-    "tags": {
-      "brand": "Four Square",
-      "brand:wikidata": "Q5475558",
-      "brand:wikipedia": "en:Four Square (supermarket)",
-      "name": "Four Square",
-      "shop": "convenience"
-    }
-  },
+
   "shop/convenience|Franprix": {
     "countryCodes": ["fr"],
     "matchTags": ["shop/supermarket"],
@@ -752,9 +727,7 @@
   },
   "shop/convenience|Huck's Food & Fuel": {
     "countryCodes": ["us"],
-    "nomatch": [
-      "amenity/fuel|Huck's Food & Fuel"
-    ],
+    "nomatch": ["amenity/fuel|Huck's Food & Fuel"],
     "tags": {
       "brand": "Huck's Food & Fuel",
       "brand:wikidata": "Q56276328",
@@ -775,10 +748,7 @@
   },
   "shop/convenience|Husky": {
     "countryCodes": ["ca"],
-    "nomatch": [
-      "amenity/fuel|Husky",
-      "amenity/restaurant|Husky House"
-    ],
+    "nomatch": ["amenity/fuel|Husky", "amenity/restaurant|Husky House"],
     "tags": {
       "brand": "Husky",
       "brand:wikidata": "Q702049",
@@ -999,10 +969,7 @@
   },
   "shop/convenience|Little Waitrose": {
     "countryCodes": ["gb", "je"],
-    "nomatch": [
-      "shop/convenience|Waitrose",
-      "shop/supermarket|Waitrose"
-    ],
+    "nomatch": ["shop/convenience|Waitrose", "shop/supermarket|Waitrose"],
     "tags": {
       "brand": "Little Waitrose",
       "brand:wikidata": "Q771734",
@@ -1079,9 +1046,7 @@
   },
   "shop/convenience|M&S Simply Food": {
     "matchNames": ["marks & spencer simply food"],
-    "nomatch": [
-      "shop/supermarket|M&S Simply Food"
-    ],
+    "nomatch": ["shop/supermarket|M&S Simply Food"],
     "tags": {
       "brand": "M&S Simply Food",
       "brand:wikidata": "Q714491",
@@ -1207,14 +1172,7 @@
     }
   },
   "shop/convenience|Mercator": {
-    "countryCodes": [
-      "ba",
-      "hr",
-      "me",
-      "mk",
-      "rs",
-      "si"
-    ],
+    "countryCodes": ["ba", "hr", "me", "mk", "rs", "si"],
     "nomatch": ["shop/supermarket|Mercator"],
     "tags": {
       "brand": "Mercator",
@@ -1588,10 +1546,7 @@
   },
   "shop/convenience|Rewe To Go": {
     "countryCodes": ["de"],
-    "nomatch": [
-      "shop/supermarket|Rewe",
-      "shop/supermarket|Rewe City"
-    ],
+    "nomatch": ["shop/supermarket|Rewe", "shop/supermarket|Rewe City"],
     "tags": {
       "brand": "Rewe To Go",
       "brand:wikidata": "Q16968817",
@@ -1671,10 +1626,7 @@
     }
   },
   "shop/convenience|Shell": {
-    "nomatch": [
-      "amenity/fuel|Shell",
-      "amenity/fuel|Shell Express"
-    ],
+    "nomatch": ["amenity/fuel|Shell", "amenity/fuel|Shell Express"],
     "tags": {
       "brand": "Shell",
       "brand:wikidata": "Q154950",
@@ -1684,10 +1636,7 @@
     }
   },
   "shop/convenience|Shell Select": {
-    "nomatch": [
-      "amenity/fuel|Shell",
-      "amenity/fuel|Shell Express"
-    ],
+    "nomatch": ["amenity/fuel|Shell", "amenity/fuel|Shell Express"],
     "tags": {
       "brand": "Shell Select",
       "brand:wikidata": "Q154950",
@@ -1714,10 +1663,7 @@
     }
   },
   "shop/convenience|Spar": {
-    "nomatch": [
-      "shop/convenience|Spar Express",
-      "shop/supermarket|Spar"
-    ],
+    "nomatch": ["shop/convenience|Spar Express", "shop/supermarket|Spar"],
     "tags": {
       "brand": "Spar",
       "brand:wikidata": "Q610492",
@@ -1728,10 +1674,7 @@
   },
   "shop/convenience|Spar Express": {
     "matchTags": ["shop/supermarket"],
-    "nomatch": [
-      "shop/convenience|Spar",
-      "shop/supermarket|Spar"
-    ],
+    "nomatch": ["shop/convenience|Spar", "shop/supermarket|Spar"],
     "tags": {
       "brand": "Spar",
       "brand:wikidata": "Q610492",
@@ -1894,10 +1837,7 @@
   },
   "shop/convenience|Thorntons": {
     "countryCodes": ["us"],
-    "nomatch": [
-      "amenity/fuel|Thorntons",
-      "shop/confectionery|Thorntons"
-    ],
+    "nomatch": ["amenity/fuel|Thorntons", "shop/confectionery|Thorntons"],
     "tags": {
       "brand": "Thorntons",
       "brand:wikidata": "Q7796584",
@@ -1996,13 +1936,8 @@
   },
   "shop/convenience|United Dairy Farmers": {
     "countryCodes": ["us"],
-    "matchTags": [
-      "amenity/ice_cream",
-      "shop/ice_cream"
-    ],
-    "nomatch": [
-      "amenity/fuel|United Dairy Farmers"
-    ],
+    "matchTags": ["amenity/ice_cream", "shop/ice_cream"],
+    "nomatch": ["amenity/fuel|United Dairy Farmers"],
     "tags": {
       "amenity": "ice_cream",
       "brand": "United Dairy Farmers",
@@ -2159,12 +2094,7 @@
   },
   "shop/convenience|uSmile 昆仑好客": {
     "countryCodes": ["cn"],
-    "matchNames": [
-      "usmile",
-      "usmile 便利店",
-      "昆仑好",
-      "昆仑好客"
-    ],
+    "matchNames": ["usmile", "usmile 便利店", "昆仑好", "昆仑好客"],
     "matchTags": ["shop/supermarket"],
     "nomatch": ["amenity/fuel|uSmile 昆仑好"],
     "tags": {
@@ -2386,10 +2316,7 @@
   },
   "shop/convenience|Магнит": {
     "matchNames": ["магнит у дома"],
-    "nomatch": [
-      "shop/cosmetics|Магнит Косметик",
-      "shop/supermarket|Магнит"
-    ],
+    "nomatch": ["shop/cosmetics|Магнит Косметик", "shop/supermarket|Магнит"],
     "tags": {
       "brand": "Магнит",
       "brand:en": "Magnit",
@@ -2612,10 +2539,7 @@
   },
   "shop/convenience|セブン-イレブン": {
     "countryCodes": ["jp"],
-    "matchNames": [
-      "セブンイレブン(7-11)",
-      "セブンイレブン(seven-eleven)"
-    ],
+    "matchNames": ["セブンイレブン(7-11)", "セブンイレブン(seven-eleven)"],
     "tags": {
       "brand": "セブン-イレブン",
       "brand:en": "7-Eleven",

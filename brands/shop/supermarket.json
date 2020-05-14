@@ -1,9 +1,6 @@
 {
   "shop/supermarket|8 à Huit": {
-    "nomatch": [
-      "amenity/fuel|8 à Huit",
-      "shop/convenience|8 à Huit"
-    ],
+    "nomatch": ["amenity/fuel|8 à Huit", "shop/convenience|8 à Huit"],
     "tags": {
       "brand": "8 à Huit",
       "brand:wikidata": "Q2818601",
@@ -236,10 +233,7 @@
   },
   "shop/supermarket|Asda": {
     "countryCodes": ["gb"],
-    "nomatch": [
-      "amenity/fuel|Asda",
-      "shop/houseware|Asda Living"
-    ],
+    "nomatch": ["amenity/fuel|Asda", "shop/houseware|Asda Living"],
     "tags": {
       "brand": "Asda",
       "brand:wikidata": "Q297410",
@@ -603,10 +597,7 @@
   },
   "shop/supermarket|Cardenas": {
     "countryCodes": ["us"],
-    "matchNames": [
-      "mi pueblo",
-      "mi pueblo food center"
-    ],
+    "matchNames": ["mi pueblo", "mi pueblo food center"],
     "tags": {
       "brand": "Cardenas",
       "brand:wikidata": "Q64149543",
@@ -618,9 +609,7 @@
   },
   "shop/supermarket|Cargills Food City~(Sri Lanka)": {
     "countryCodes": ["lk"],
-    "nomatch": [
-      "shop/supermarket|Food City~(USA)"
-    ],
+    "nomatch": ["shop/supermarket|Food City~(USA)"],
     "tags": {
       "brand": "Cargills Food City",
       "brand:wikidata": "Q58353955",
@@ -629,10 +618,7 @@
     }
   },
   "shop/supermarket|Carrefour": {
-    "nomatch": [
-      "amenity/fuel|Carrefour",
-      "shop/convenience|Carrefour Express"
-    ],
+    "nomatch": ["amenity/fuel|Carrefour", "shop/convenience|Carrefour Express"],
     "tags": {
       "brand": "Carrefour",
       "brand:wikidata": "Q217599",
@@ -1118,9 +1104,7 @@
   },
   "shop/supermarket|Delikatesy Centrum": {
     "countryCodes": ["pl"],
-    "nomatch": [
-      "shop/convenience|Delikatesy Centrum"
-    ],
+    "nomatch": ["shop/convenience|Delikatesy Centrum"],
     "tags": {
       "brand": "Delikatesy Centrum",
       "brand:wikidata": "Q11693824",
@@ -1238,10 +1222,7 @@
   },
   "shop/supermarket|Dollar General Market": {
     "countryCodes": ["us"],
-    "matchTags": [
-      "shop/convenience",
-      "shop/variet_store"
-    ],
+    "matchTags": ["shop/convenience", "shop/variet_store"],
     "nomatch": [
       "amenity/bank|Dollar Bank",
       "amenity/car_rental|Dollar",
@@ -1332,10 +1313,7 @@
   },
   "shop/supermarket|Eko": {
     "countryCodes": ["pl"],
-    "nomatch": [
-      "amenity/fuel|EKO~(Canada)",
-      "amenity/fuel|EKO~(Greece)"
-    ],
+    "nomatch": ["amenity/fuel|EKO~(Canada)", "amenity/fuel|EKO~(Greece)"],
     "tags": {
       "brand": "Eko",
       "brand:wikidata": "Q9251859",
@@ -1495,9 +1473,7 @@
   },
   "shop/supermarket|Food City~(USA)": {
     "countryCodes": ["us"],
-    "nomatch": [
-      "shop/supermarket|Cargills Food City~(Sri Lanka)"
-    ],
+    "nomatch": ["shop/supermarket|Cargills Food City~(Sri Lanka)"],
     "tags": {
       "brand": "Food City",
       "brand:wikidata": "Q16981107",
@@ -1607,6 +1583,7 @@
   },
   "shop/supermarket|Four Square": {
     "countryCodes": ["nz"],
+    "matchTags": ["shop/convenience"],
     "tags": {
       "brand": "Four Square",
       "brand:wikidata": "Q5475558",
@@ -1669,9 +1646,7 @@
   "shop/supermarket|Fry's Food and Drug": {
     "countryCodes": ["us"],
     "matchNames": ["frys"],
-    "nomatch": [
-      "shop/electronics|Fry's Electronics"
-    ],
+    "nomatch": ["shop/electronics|Fry's Electronics"],
     "tags": {
       "brand": "Fry's Food and Drug",
       "brand:wikidata": "Q5506547",
@@ -2012,10 +1987,7 @@
   "shop/supermarket|ICA": {
     "countryCodes": ["no", "se"],
     "matchNames": ["ica supermarket"],
-    "nomatch": [
-      "shop/supermarket|ICA Kvantum",
-      "shop/supermarket|ICA Maxi"
-    ],
+    "nomatch": ["shop/supermarket|ICA Kvantum", "shop/supermarket|ICA Maxi"],
     "tags": {
       "brand": "ICA",
       "brand:wikidata": "Q1663776",
@@ -2026,10 +1998,7 @@
   },
   "shop/supermarket|ICA Kvantum": {
     "countryCodes": ["se"],
-    "nomatch": [
-      "shop/supermarket|ICA",
-      "shop/supermarket|ICA Maxi"
-    ],
+    "nomatch": ["shop/supermarket|ICA", "shop/supermarket|ICA Maxi"],
     "tags": {
       "brand": "ICA Kvantum",
       "brand:wikidata": "Q1663776",
@@ -2040,10 +2009,7 @@
   },
   "shop/supermarket|ICA Maxi": {
     "countryCodes": ["no", "se"],
-    "nomatch": [
-      "shop/supermarket|ICA",
-      "shop/supermarket|ICA Kvantum"
-    ],
+    "nomatch": ["shop/supermarket|ICA", "shop/supermarket|ICA Kvantum"],
     "tags": {
       "brand": "ICA Maxi",
       "brand:wikidata": "Q1663776",
@@ -2199,15 +2165,7 @@
     }
   },
   "shop/supermarket|Kaufland": {
-    "countryCodes": [
-      "bg",
-      "cz",
-      "de",
-      "hr",
-      "pl",
-      "ro",
-      "sk"
-    ],
+    "countryCodes": ["bg", "cz", "de", "hr", "pl", "ro", "sk"],
     "tags": {
       "brand": "Kaufland",
       "brand:wikidata": "Q685967",
@@ -2292,10 +2250,7 @@
     }
   },
   "shop/supermarket|Kroger": {
-    "matchNames": [
-      "kroger food and drug",
-      "krogers"
-    ],
+    "matchNames": ["kroger food and drug", "krogers"],
     "nomatch": ["amenity/fuel|Kroger"],
     "tags": {
       "brand": "Kroger",
@@ -2596,9 +2551,7 @@
   },
   "shop/supermarket|M&S Simply Food": {
     "matchNames": ["marks & spencer simply food"],
-    "nomatch": [
-      "shop/convenience|M&S Simply Food"
-    ],
+    "nomatch": ["shop/convenience|M&S Simply Food"],
     "tags": {
       "brand": "M&S Simply Food",
       "brand:wikidata": "Q714491",
@@ -2621,11 +2574,7 @@
   "shop/supermarket|MEGAドン・キホーテ": {
     "countryCodes": ["jp"],
     "matchNames": ["メガ・ドン・キホーテ"],
-    "matchTags": [
-      "amenity/general",
-      "amenity/retail",
-      "amenity/variety_store"
-    ],
+    "matchTags": ["amenity/general", "amenity/retail", "amenity/variety_store"],
     "nomatch": ["amenity/variety_store|ドン・キホーテ"],
     "tags": {
       "brand": "ドン・キホーテ",
@@ -2741,10 +2690,7 @@
   },
   "shop/supermarket|Maxima X": {
     "countryCodes": ["bg", "ee", "lt", "lv"],
-    "nomatch": [
-      "shop/supermarket|Maxima XX",
-      "shop/supermarket|Maxima XXX"
-    ],
+    "nomatch": ["shop/supermarket|Maxima XX", "shop/supermarket|Maxima XXX"],
     "tags": {
       "brand": "Maxima X",
       "brand:wikidata": "Q1881222",
@@ -2754,17 +2700,8 @@
     }
   },
   "shop/supermarket|Maxima XX": {
-    "countryCodes": [
-      "bg",
-      "ee",
-      "lt",
-      "lv",
-      "pl"
-    ],
-    "nomatch": [
-      "shop/supermarket|Maxima X",
-      "shop/supermarket|Maxima XXX"
-    ],
+    "countryCodes": ["bg", "ee", "lt", "lv", "pl"],
+    "nomatch": ["shop/supermarket|Maxima X", "shop/supermarket|Maxima XXX"],
     "tags": {
       "brand": "Maxima XX",
       "brand:wikidata": "Q1881222",
@@ -2774,18 +2711,9 @@
     }
   },
   "shop/supermarket|Maxima XXX": {
-    "countryCodes": [
-      "bg",
-      "ee",
-      "lt",
-      "lv",
-      "pl"
-    ],
+    "countryCodes": ["bg", "ee", "lt", "lv", "pl"],
     "matchNames": ["maxima"],
-    "nomatch": [
-      "shop/supermarket|Maxima X",
-      "shop/supermarket|Maxima XX"
-    ],
+    "nomatch": ["shop/supermarket|Maxima X", "shop/supermarket|Maxima XX"],
     "tags": {
       "brand": "Maxima XXX",
       "brand:wikidata": "Q1881222",
@@ -2877,13 +2805,7 @@
     }
   },
   "shop/supermarket|Mercator": {
-    "countryCodes": [
-      "ba",
-      "hr",
-      "me",
-      "rs",
-      "si"
-    ],
+    "countryCodes": ["ba", "hr", "me", "rs", "si"],
     "nomatch": ["shop/convenience|Mercator"],
     "tags": {
       "brand": "Mercator",
@@ -3264,10 +3186,7 @@
   },
   "shop/supermarket|PLUS": {
     "countryCodes": ["nl"],
-    "nomatch": [
-      "amenity/fuel|Gas Plus",
-      "shop/mobile_phone|Plus"
-    ],
+    "nomatch": ["amenity/fuel|Gas Plus", "shop/mobile_phone|Plus"],
     "tags": {
       "brand": "PLUS",
       "brand:wikidata": "Q1978981",
@@ -3328,14 +3247,7 @@
     }
   },
   "shop/supermarket|Penny": {
-    "countryCodes": [
-      "at",
-      "cz",
-      "de",
-      "hu",
-      "it",
-      "ro"
-    ],
+    "countryCodes": ["at", "cz", "de", "hu", "it", "ro"],
     "matchNames": ["penny market", "penny markt"],
     "tags": {
       "brand": "Penny",
@@ -3424,9 +3336,7 @@
   },
   "shop/supermarket|Price Chopper~(Kansas City)": {
     "countryCodes": ["us"],
-    "nomatch": [
-      "shop/supermarket|Price Chopper~(New York)"
-    ],
+    "nomatch": ["shop/supermarket|Price Chopper~(New York)"],
     "tags": {
       "brand": "Price Chopper",
       "brand:wikidata": "Q7242572",
@@ -3437,9 +3347,7 @@
   },
   "shop/supermarket|Price Chopper~(New York)": {
     "countryCodes": ["us"],
-    "nomatch": [
-      "shop/supermarket|Price Chopper~(Kansas City)"
-    ],
+    "nomatch": ["shop/supermarket|Price Chopper~(Kansas City)"],
     "tags": {
       "brand": "Price Chopper",
       "brand:wikidata": "Q7242574",
@@ -3641,10 +3549,7 @@
   },
   "shop/supermarket|Rewe": {
     "countryCodes": ["de"],
-    "nomatch": [
-      "shop/convenience|Rewe To Go",
-      "shop/supermarket|Rewe City"
-    ],
+    "nomatch": ["shop/convenience|Rewe To Go", "shop/supermarket|Rewe City"],
     "tags": {
       "brand": "Rewe",
       "brand:wikidata": "Q16968817",
@@ -3655,10 +3560,7 @@
   },
   "shop/supermarket|Rewe City": {
     "countryCodes": ["de"],
-    "nomatch": [
-      "shop/convenience|Rewe To Go",
-      "shop/supermarket|Rewe"
-    ],
+    "nomatch": ["shop/convenience|Rewe To Go", "shop/supermarket|Rewe"],
     "tags": {
       "brand": "Rewe City",
       "brand:wikidata": "Q16968817",
@@ -3688,10 +3590,7 @@
     }
   },
   "shop/supermarket|Safeway": {
-    "nomatch": [
-      "amenity/fuel|Safeway",
-      "amenity/pharmacy|Safeway"
-    ],
+    "nomatch": ["amenity/fuel|Safeway", "amenity/pharmacy|Safeway"],
     "tags": {
       "brand": "Safeway",
       "brand:wikidata": "Q1508234",
@@ -3930,10 +3829,7 @@
     }
   },
   "shop/supermarket|Spar": {
-    "nomatch": [
-      "shop/convenience|Spar",
-      "shop/convenience|Spar Express"
-    ],
+    "nomatch": ["shop/convenience|Spar", "shop/convenience|Spar Express"],
     "tags": {
       "brand": "Spar",
       "brand:wikidata": "Q610492",
@@ -4859,10 +4755,7 @@
   "shop/supermarket|Виктория": {
     "countryCodes": ["ru"],
     "matchTags": ["shop/convenience"],
-    "nomatch": [
-      "amenity/cafe|Виктория",
-      "shop/hairdresser|Виктория"
-    ],
+    "nomatch": ["amenity/cafe|Виктория", "shop/hairdresser|Виктория"],
     "tags": {
       "brand": "Виктория",
       "brand:wikidata": "Q4111046",
@@ -5062,10 +4955,7 @@
   },
   "shop/supermarket|Магнит": {
     "matchTags": ["shop/department_store"],
-    "nomatch": [
-      "shop/convenience|Магнит",
-      "shop/cosmetics|Магнит Косметик"
-    ],
+    "nomatch": ["shop/convenience|Магнит", "shop/cosmetics|Магнит Косметик"],
     "tags": {
       "brand": "Магнит",
       "brand:en": "Magnit",
